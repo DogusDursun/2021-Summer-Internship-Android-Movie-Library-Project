@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieProject</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="mode">Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="listgrid">ListGrid</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="remove_from_favorite">Remove from Favorite</string>
+    <string name="search_movie_name">Search Movie Name</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F5EDFF</color>
+    <color name="purple_500">#EE4443</color>
+    <color name="purple_700">#AC310A</color>
+    <color name="green">#287928</color>
+    <color name="sourcherry">#AA356B</color>
+    <color name="reeed">#9E1111</color>
+    <color name="pastelbg">#FAECE7</color>
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
